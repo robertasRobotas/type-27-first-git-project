@@ -57,7 +57,7 @@ a:visited {
 
 a:focus {
   outline: none;
-  color: green;
+  color: blue;
 }
 
 p::first-line {
@@ -66,4 +66,8 @@ p::first-line {
 
 p::first-letter {
   font-size: 2rem;
+}
+
+.new-class {
+  height: 100px;
 }
